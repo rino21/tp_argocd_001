@@ -7,6 +7,6 @@ spec:
     app: web
   ports:
   - port: 80
-    targetPort: 80t
+    targetPort: 80
   ype: ClusterIP
   
