@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: web
-  type: LoadBalancer
+  type: clusterIP
   ports:
   - port: 80
     targetPort: 80
